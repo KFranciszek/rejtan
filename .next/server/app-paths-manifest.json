@@ -3,5 +3,6 @@
   "/poslowie/[id]/page": "app/poslowie/[id]/page.js",
   "/poslowie/[id]/interpelacje/page": "app/poslowie/[id]/interpelacje/page.js",
   "/statystyki/page": "app/statystyki/page.js",
-  "/roadmapa/page": "app/roadmapa/page.js"
+  "/roadmapa/page": "app/roadmapa/page.js",
+  "/o-projekcie/page": "app/o-projekcie/page.js"
 }
