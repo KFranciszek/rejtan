@@ -20,6 +20,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/poslowie/[id]/interpelacje/page.js"
+    ],
+    "/statystyki/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/statystyki/page.js"
     ]
   }
 }
